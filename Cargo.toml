@@ -1,0 +1,6 @@
+[package]
+name = "ricom"
+version = "0.1.0"
+authors = ["Alwin Doss <alwindoss84@gmail.com>"]
+
+[dependencies]
